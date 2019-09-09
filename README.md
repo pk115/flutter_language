@@ -4,6 +4,10 @@ add  dependencies:
   easy_localization: ^1.3.1
 
 https://pub.dev/packages/easy_localization#-installing-tab-
+
+Default Flutter TH
+https://github.com/flutter/flutter/blob/master/packages/flutter_localizations/lib/src/l10n/material_th.arb
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
